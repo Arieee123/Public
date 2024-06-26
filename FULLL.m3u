@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:28,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:28,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:60,INDOSIAR
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+#EXTINF:130,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:26,SENENGE BAPAKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:29,SENENGE MBOKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:28,SENENGANE SIMBAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTINF:28,MBAH BUYUT PRESO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://shorturl.at/Ejj0z
+#EXTINF:28,OJO UBRUK WOE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+#EXTINF:28,MADANG HORONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:28,NGANTOK TURU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+#EXTINF:60,MOJI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+#EXTINF:40,BERITA TEROS
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+#EXTINF:26,AWAN BENGI BERITA WAE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719214773/ei/Vc54ZoPBFLSH4-EP_Z2DgAI/ip/27.124.83.226/id/53UByQBzuLw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fzVpLa8hFq7LH5SLxtBzXg1oHtM_Q65vnlS94X_7Gl89DoGfffR0aV4M733eNQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOvF42yNdibtZXRYHjTfSc5hDf9qFO7amiVpvzQ2IhuECIQCNQvZkynPElX2qaeMfDoIXQB-O-9VAtwNybqXO63iI2w%3D%3D/file/index.m3u8
+#EXTINF:1786, NUSANTARA TV
+https://v5.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:34, MBOHH FILM
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+#EXTINF:30, TAWON TV
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+#EXTINF:28, MALESIYE FILM
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:28, TVRI JOGJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+#EXTINF:28, KADANG WAYANGAN
+https://mam.jogjaprov.go.id:1937/tv/jitv_360p/chunklist_w850229424.m3u8
+#EXTINF:28,FILM WAEEEEEEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+#EXTINF:28,PILEM MANING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+#EXTINF:28,KOREA WAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:28,KARO MADANG ENAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+#EXTINF:28,KEWAN-KEWAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719213712/ei/MMp4Zvb5IdL4juMPh5atUA/ip/27.124.83.226/id/PLR6KdmyTho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/gcr/id/spc/UWF9f3b3e5Tn1zBKLxtrGucgDRW040QW1MNy1HdCxDcsH74tgtIlLMQbC6gCN-TvfA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMutOkZdQVeuYw1gOWtZyJwceKIyw6ZbZ0XeVjHrKl0QCIQCvrvF8GE7-_UEQWcMotSwGnQcVM-da8Nrn3pjEIKBvgA%3D%3D/file/index.m3u8
+#EXTINF:28,FILM PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+#EXTINF:28,TUKANG GELUD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
+#EXTINF:28, WAYANG KULIT 7 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr3---sn-npoeenl7.googlevideo.com/videoplayback?expire=1719224331&ei=q_N4ZvbEJ93JsfIP2K7CwAQ&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ACbaP6HqiJUyGFACXfGBXi7elw363jDnhh5WkEEYakos&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1O9bAUsyToq8GUYOPGxdFxc_dyVAF_Ivp16BzlDYtystaHzolwS6AzQOyKbhIzrcc-BfynbXLC5&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=22868.056&lmt=1658448607572850&c=ANDROID_EMBEDDED_PLAYER&txp=6318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAMGmKOeQuJkTHn03qFdMDRNC9u-N2FU1BSqPd8Tp25sfAiEAjDvtp0dDDu3ud_aDnkHvqiHL2WqDHmvFlbrnJVEHBc8%3D&title=SEMAR+MBANGUN+KAHYANGAN%2C+MAESTRO+DALANG+JOGJA+KI+HADI+SUGITO+ALM.+WAYANG+KULIT+YOGYAKARTA&cm2rm=sn-a5myr7z&fexp=24350485&req_id=dfc3654a0eba3ee&redirect_counter=2&rm=sn-a5meey7z&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=V-&mip=27.124.83.226&mm=34&mn=sn-npoeenl7&ms=ltu&mt=1719202586&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRAIgBHRye61bcUdtSPOg3JJtsBiTtxvQ3F7J-hEg53xRM1MCIBJg8C4LNtCYCDVv2SggPlr3t9oaI1CIMZQa9wBwuPQd
+#EXTINF:28,FILM TEROS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+#EXTINF:28, (01) WAYANG KULIT 8 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr2---sn-a5meknsd.googlevideo.com/videoplayback?expire=1719223291&ei=m-94Zq3oF6f0sfIPwuKsyAc&ip=2605%3A6400%3A20%3A3e4%3Ac69b%3A67d4%3A52ef%3A6b18&id=o-ACNKMhqtA1x53Yi5dmB3cr4GB6NZ5Lju_DI_ixfiJqCE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1MUch1rRAkmjxkEEnnwtuh-GZo1RfBOFTWN0Y4gOTet-UJs4oIteV0FOdAlYAmZJ4QwfO08a-MY&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=23785.755&lmt=1703485243521609&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJvz1oB1u6VrW41weHy3jTuo8ef-ux0DrKtxskPSEq2rAiBOZXcrs2EDEfbsHVLzURzBYQn5_BSpxG9wtTAJZ_9a6w%3D%3D&title=Wayang+Kulit+Ki+Hadi+Sugito.+Lakon+Semar+Gugat.&rm=sn-a5mrd7l&fexp=24350485&req_id=5ee1749086b3a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-a5myl7s&cms_redirect=yes&cmsv=e&mh=5l&mip=168.235.203.236&mm=34&mn=sn-a5meknsd&ms=ltu&mt=1719201400&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAJ-3JtJjh6G40r2JdrH14Qvlb1o7h3tVpvsOtmFBcvfPAiEAxoTqOF8ANWAULnG5pQk5_p55zMHq1RywYWn4YMKylaU%3D
+#EXTINF:28, PEMBALAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
+#EXTINF:28,(02) WAYANG KULIT 7 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr4---sn-a5meknzk.googlevideo.com/videoplayback?expire=1719224936&ei=CPZ4ZpOzJuqhsfIPr5qygAk&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ANJu8y8C1otokEqn8FlkH8wrL7DrtwaB9mK2tbFODnrz&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1M47y8oE_ABJNY2YEWJfe6zScAWF35QO_eXCPuvPmWXBOFQWqe6FhjljdCLyw-xgkqYHfCUeFBZ&vprv=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1164917656&ratebypass=yes&dur=24529.699&lmt=1714096530872885&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJ_uaqmXdq3uiF_GIFbpmmaQBZIucstGEyc1eefKZwPoAiAC3YpTeURFQfmFGqBvMKI4EzRkNDYPMbxny7TAnJbZBg%3D%3D&title=KI+HADI+SUGITO+FULL+LAKON+PUNTADEWA+SUCI%23dalangklasik+%23kihadisugito&redirect_counter=1&rm=sn-a5myy7e&fexp=24350485&req_id=485f058dda1ba3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=cW&mip=168.235.203.253&mm=31&mn=sn-a5meknzk&ms=au&mt=1719203089&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAN2HYKpQZroARpePVnmjcC9jol-8L8E_XiaVu35IS7QJAiEA69iAUvcDFKHIHU7s4vtLSu7f5CHRcYC5fAFPA6w43P8%3D
+#EXTINF:28,(03) WAYANG KULIT 8 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr2---sn-npoldne7.googlevideo.com/videoplayback?expire=1719225346&ei=ovd4ZtDOJbWgsfIP9s6JmAk&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ANr1H1GMH7j18o1zvTVrPuiTgiWIguKHANI5HmI6_Auo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1P1mXXGJ4WRz9mX3lyQxcWAatO7rLCER8nQ9BeEZuLIvSB4yHc7OgmM73jf4BM72S-98b8YES-H&vprv=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1373980969&ratebypass=yes&dur=23842.597&lmt=1583354659547179&c=ANDROID_EMBEDDED_PLAYER&txp=7316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAI_-pQDhscpKQC6wL30Knk-JbvDhWaw2RWlZGL7dLK4lAiBpriPeOANbAKg1gvhA86nK5VWAkP7vR0goWoPsFLHZUw%3D%3D&title=Wayang+Kulit+Rec.2007.+Alm.+Ki+Hadi+Sugito.+Lakon+Petruk+Takon+Bopo.&cm2rm=sn-a5me7s7l&fexp=24350485&req_id=6bd2701d8637a3ee&redirect_counter=2&rm=sn-a5mry76&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=LY&mip=27.124.83.226&mm=34&mn=sn-npoldne7&ms=ltu&mt=1719203552&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgBWsYx_mpN6WMjsfzXGWfx9vQ854u1YUHWEqtFdJVbawCIQDAh-fgQ7Bab6LwsZ3-XIGqOHdD6jleD5qRhorLcvnVDg%3D%3D
+#EXTINF:28, KETOPRAK MATARAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr5---sn-npoldn7d.googlevideo.com/videoplayback?expire=1719225956&ei=BPp4ZrHFKe3Ky_sPuvSviAs&ip=2605%3A6400%3A40%3Afb66%3Afb79%3Adcdd%3A9377%3A37ad&id=o-AOtmjBDlcrZk-_eolB3BKhIsq-MQU38Emi6wb4rlrHV3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1Mb6Sr1Vj5zTJIj-ge_8ix7gwKfWl4MUQghktcdhI0dtaA2hNEg52KAD7yULZarBn-J1cVFRM3w&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=18858.968&lmt=1664197372400691&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgIJ5Z213evMYhAIMGJwmvI9wKFgPxIt6XxIRN0yyZ6sUCIQCmtgDQBX0DCIpwE043PB-Speb6mQgs6YYNTq3UmQSqzw%3D%3D&title=KETOPRAK+SRI+KENCONO+TERBARU+-+JOKO+KENDIL+JALUK+RABI&cm2rm=sn-hp5yd7s&fexp=24350485&req_id=3d843009dd34a3ee&redirect_counter=2&rm=sn-a5meek7z&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=B_&mip=27.124.83.226&mm=34&mn=sn-npoldn7d&ms=ltu&mt=1719204271&mv=m&mvi=5&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRAIgG_Vg-zwtx6Z6eAr8CJW8Bztld-xU_3dI9KMmv3dX6rMCID1oXUFXLZfGb_Nd5fjZbXjbBKogLW5ZrNrVRTALoh32
+#EXTINF:28,01._________
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
+#EXTINF:28,01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+#EXTINF:28,01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
+#EXTINF:28,01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
+#EXTINF:28,01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
+#EXTINF:80,index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:60,index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+#EXTINF:60,discoverykids.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+#EXTINF:60,playlist.m3u8
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:60,hgtv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:30,TheKPOP.m3u8
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
